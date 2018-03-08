@@ -9,7 +9,7 @@ import android.widget.Toast;
 
 public class ToastUtils {
 
-    public static void toastTest(Context context){
+    public static void toastBTest(Context context){
         Toast.makeText(context,"HHH!",Toast.LENGTH_SHORT).show();
     }
 }
